@@ -1,0 +1,3 @@
+﻿  source.cpp
+c:\users\오민석\documents\visual studio 2017\oop1_study\oop1_week2_001\oop1_week2_001\source.cpp(17): error C2440: '초기화 중': 'initializer list'에서 'myClass'(으)로 변환할 수 없습니다.
+  c:\users\오민석\documents\visual studio 2017\oop1_study\oop1_week2_001\oop1_week2_001\source.cpp(17): note: 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.

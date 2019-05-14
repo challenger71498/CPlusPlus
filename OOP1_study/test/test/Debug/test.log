@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\오민석\documents\visual studio 2017\oop1_study\test\test\소스.cpp(19): warning C4717: 'hello': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+  test.vcxproj -> C:\Users\오민석\Documents\Visual Studio 2017\OOP1_study\test\Debug\test.exe
