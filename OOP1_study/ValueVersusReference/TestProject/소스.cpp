@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <ctime>
 
+//git push »Æ¿Œ
+
 using namespace std;
 
 void testFunction(string);
